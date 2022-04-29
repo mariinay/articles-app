@@ -1,0 +1,39 @@
+*{
+ font-family: sans-serif;
+}
+
+.home{
+    display: flex;
+    height: 500px;
+}
+.component{
+    display: inline-block;
+
+}
+
+.new-article{
+    padding-left: 18px;
+    padding-top: 160px;
+}
+
+.overlay {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: rgb(190, 214, 242, 0.8);
+    text-align: center;
+    z-index: 9;
+}
+
+.update-form{
+    width: 500px;
+    margin: 0 auto;
+    background: rgba(6, 54, 132, 0.565);
+    padding: 30px;
+    margin-top: 12%;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(0, 0, 255, 0.3);
+}

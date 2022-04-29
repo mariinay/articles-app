@@ -1,0 +1,17 @@
+*{
+    font-family: sans-serif;
+}
+   
+.about-us{
+    width: 100%;
+}
+
+.text{
+    width: 50%;
+    margin: auto;
+}
+
+p{
+    font-size: 18px;
+    text-align: justify;
+}

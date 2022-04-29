@@ -1,0 +1,13 @@
+*{
+    font-family: sans-serif;
+}
+   
+.header{
+    display: flex;
+    width: 100%;
+}
+
+.logo{
+    height: 60px;
+    width: auto;
+}

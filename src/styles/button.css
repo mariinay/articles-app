@@ -1,0 +1,18 @@
+*{
+    font-family: sans-serif;
+}
+   
+.btn{
+    background-color: white;
+    width: 150px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(2, 58, 201);
+    box-shadow: 1px 1px 10px 1px lightgrey;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.btn:hover{
+    cursor: pointer;
+}
